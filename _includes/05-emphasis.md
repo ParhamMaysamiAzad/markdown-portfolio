@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some stuff that I have contributed in is **volenteering at a animal hospital** and stuff 
