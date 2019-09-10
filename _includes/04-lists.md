@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Pie
+  * rasberry
+  * Kiwi
+* Chemistry
+* Youtube
+* Cheese Cake
+* Computers
